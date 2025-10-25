@@ -1,0 +1,4 @@
+- Abra o projeto em sua IDE de preferência
+- Dentro da camada src, deve haver os pacotes Model, View, Controller e uma classe main.
+- Utilize a maneira própria de sua IDE para rodar uma classe na classe main (no InteliJ por exemplo é clicar com o botão direito na classe e clicar na p´ção "Run"
+- Quando o projeto iniciar no terminal da sua IDE irá aparecer instruções de utilização. Siga-as.
